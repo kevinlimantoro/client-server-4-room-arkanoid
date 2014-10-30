@@ -1,0 +1,15 @@
+Urutan buka program
+server(0)
+room1
+room2
+room3
+(tak boleh dibalik)
+
+
+posisi windows
+
+	room 1				Server
+
+
+
+	room 2				room 3
